@@ -1,16 +1,93 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Joey Saade</h1>
+<h3 align="center">Computer Science & Engineering @ AUB | AI/ML • Software Engineering • Cybersecurity</h3>
 
-<!--
-**JS9872/JS9872** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 CSE student at the **American University of Beirut (AUB)**
+- 🧠 Passionate about **AI, ML, NLP, cybersecurity, and full-stack development**
+- 💼 Builder of real-world apps: AI fact-checking platforms, reservation systems, encryption tools, and more
+- 🏃‍♂️ Founder of the **AUB Running Club** • Athlete
+- 🌍 Based in Lebanon
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Tech Stack & Tools
+
+**Languages:**  
+`Python` `Java` `C` `C++` `RISC-V Assembly` `SQL`
+
+**Frameworks & Tools:**  
+`Flask` `Streamlit` `FlutterFlow` `Firebase` `MongoDB` `PostgreSQL` `Git` `Docker`  
+
+**AI & ML:**  
+`Scikit-Learn` `NumPy` `Pandas` `NLP` `Classification/Regression` `Model Evaluation`
+
+---
+
+# ⭐ Featured Projects
+
+Below are the projects I’m most proud of — real, functional, and impactful.
+
+---
+
+### 🔹 **Veritas – Lebanese News Verification Platform**  
+AI-powered fact-checking & bias detection system  
+- Automated scraping of Lebanese news media  
+- NLP pipeline for claim extraction & similarity matching  
+- Bias classification + MongoDB storage workflow  
+🔗 **Repo:** https://github.com/sabaronnie/Veritas
+
+---
+
+### 🔹 **RSA Encryption Educational Tool**  
+End-to-end RSA implementation with secure padding  
+- Python backend using Flask  
+- UI via Streamlit  
+- OAEP padding + chunking fully implemented  
+- PostgreSQL for key storage  
+🔗 **Repo:** https://github.com/khldnsser/RSA-Encryption
+
+---
+
+### 🔹 **AUBoutique – E-Commerce App**  
+Storefront application for the AUB community  
+- Product listing, cart, checkout logic  
+- Team project with clean architecture  
+🔗 **Repo:** https://github.com/Nohra2005/AUBoutique
+
+---
+
+### 🔹 **AUBoutique GUI**  
+Graphical UI version of AUBoutique  
+- Desktop interface (Tkinter/PyQt style)  
+- Improved user interaction flow  
+🔗 **Repo:** https://github.com/Nohra2005/AUBoutique-GUI
+
+---
+
+### 🔹 **EECE490 Hackathon Project**  
+Machine learning pipeline for AUB's 490 hackathon  
+- Data preprocessing + EDA  
+- ML modeling (classification/regression)  
+- Performance evaluation + insights  
+🔗 **Repo:** https://github.com/sabaronnie/EECE490Hackathon
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JS9872&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JS9872&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📂 All Public Repositories
+
+If you'd like this section to auto-update, I can add the GitHub Action for you.
+
+```markdown
+<!--START_SECTION:my_repos-->
+<!--END_SECTION:my_repos-->
