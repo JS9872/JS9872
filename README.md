@@ -85,9 +85,3 @@ Machine learning pipeline for AUB's 490 hackathon
 ---
 
 ## 📂 All Public Repositories
-
-If you'd like this section to auto-update, I can add the GitHub Action for you.
-
-```markdown
-<!--START_SECTION:my_repos-->
-<!--END_SECTION:my_repos-->
