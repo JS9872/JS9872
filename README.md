@@ -72,16 +72,3 @@ Machine learning pipeline for AUB's 490 hackathon
 - ML modeling (classification/regression)  
 - Performance evaluation + insights  
 🔗 **Repo:** https://github.com/sabaronnie/EECE490Hackathon
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JS9872&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JS9872&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 📂 All Public Repositories
